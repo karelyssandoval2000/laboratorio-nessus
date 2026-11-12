@@ -1,1 +1,1 @@
-# linux-practicas
+# laboratorio-nessus
